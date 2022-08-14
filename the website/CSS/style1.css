@@ -1,0 +1,38 @@
+
+body{
+    background-color:#ddd;
+    color: rgb(214, 200, 11);
+    border-color: black;
+    text-decoration: black;
+}
+li {
+   
+    background-color: rgb(189, 181, 253);
+    text-align: center;
+  }
+  
+a {
+    background-color: rgba(189, 181, 260);
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 18px;
+    text-decoration: none;
+    font-size: 24px;
+  }
+  
+  a:hover {
+    background-color: #ddd;
+    color: rgb(104, 86, 158);
+  }
+  
+  a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .center{
+    text-align: center;
+   }
+
+
+  
